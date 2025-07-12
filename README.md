@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @j4cka1, you can call me Jack.
-- 👀 I’m interested in reinforcement learning, quantum error correction, large language models, quantum games
+- 👀 I’m interested in reinforcement learning, quantum error correction, large language models, games
 - 🌱 I’m currently learning how to program apps using Swift.
 - 🎓 I graduated from the University of Minnesota with a BA in Computer Science Spring 2022.
 - 💞️ I’m looking to collaborate on quantum computing, interactive applications.
